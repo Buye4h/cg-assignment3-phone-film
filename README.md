@@ -12,7 +12,8 @@ Create an image using vertices in Modern OpenGL, adhering to the theme "YOUR BES
 
 ## Result
 
-![image](https://github.com/Buye4h/cg-assignment3-phone-film/assets/73097117/4f287db1-9e45-4a6e-bd43-b8947bd3cd25)
+![image](https://github.com/Buye4h/cg-assignment3-phone-film/assets/73097117/05c8e016-1c17-4ac0-a96f-32c48fed018b)
+
 
 ## Reference
 (Used for educational purposes only)
