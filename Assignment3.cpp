@@ -26,8 +26,8 @@ std::vector<Mesh *> meshList;
 std::vector<Shader> shaderList;
 
 // Assignment 3
-// 63050147 Tharita Watanapa sec1
-// 63050166 Pilada Prasan sec2
+// Tharita Watanapa 
+// Pilada Prasan 
 
 // Vertex Shader
 static const char *vShader = "Shaders/shader.vert";
