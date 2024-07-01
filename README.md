@@ -17,10 +17,9 @@ Create an image using vertices in Modern OpenGL, adhering to the theme "YOUR BES
 
 ## Reference
 (Used for educational purposes only)
-- Reference :
-https://dribbble.com/shots/5769423-Pyramids
-https://www.unrealengine.com/marketplace/en-US/product/dynamic-winter-environment
-https://www.shutterstock.com/image-photo/snow-620331935
+- https://dribbble.com/shots/5769423-Pyramids
+- https://www.unrealengine.com/marketplace/en-US/product/dynamic-winter-environment
+- https://www.shutterstock.com/image-photo/snow-620331935
 
 ### Texture :
 - Mountain :
